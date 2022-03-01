@@ -2,12 +2,12 @@
     "title": "DevTeamIU",
     "description": "This is the webring of our team DevTeamIU.",
     "image": "100384761.png",
-    "url": "https://webringdemo.netlify.com",
+    "url": "https://devteamiu.netlify.com",
     "repo": "https://github.com/DevTeamIU",
     "admins": [
         {
-            "name": ,
-            "url": 
+            "name": "p18kout",
+            "url": "https://github.com/p18kout"
         }
     ]
 }
