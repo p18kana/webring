@@ -1,52 +1,32 @@
 [
     {
-        "title": "",
+        "title": "Sotirios Koutopoulis",
         "url": "https://mxb.dev/",
         "feed": "https://mxb.dev/feed.xml"
     },
     {
-        "title": "",
+        "title": "Ioannis Kanakis",
         "url": "https://www.matuzo.at/",
         "feed": "https://www.matuzo.at/feed.xml"
     },
     {
-        "title": "",
+        "title": "Euaggelos Nikolaou",
         "url": "https://www.sonniesedge.net/",
         "feed": null
     },
     {
-        "title": "",
+        "title": "Kyriakos Mpaltatzidis",
         "url": "https://ganslandt.xyz/",
         "feed": null
     },
     {
-        "title": "",
+        "title": "Rafahl Fwtakidis",
         "url": "https://www.mrozilla.cz/",
         "feed": null
     },
     {
-        "title": "",
+        "title": "Elisabet Strabou",
         "url": "https://www.zachleat.com/",
         "feed": "https://www.zachleat.com/web/feed/"
-    },
-    {
-        "title": "",
-        "url": "https://ste.vg",
-        "feed": null
-    },
-    {
-        "title": "",
-        "url": "https://cogdogblog.com/",
-        "feed": "https://cogdogblog.com/feed"
-    },
-    {
-        "title": "",
-        "url": "https://mhitza.github.io",
-        "feed": "https://mhitza.github.io/atom.xml"
-    },
-    {
-        "title": "Rings around the Internet",
-        "url": "https://fanlistings.nickifaulk.com/webrings/",
-        "feed": null
     }
 ]
